@@ -1,3 +1,7 @@
 *.ibak
 *.md
 *.txt
+*.xls
+*.xlsx
+*.doc
+*.docx
